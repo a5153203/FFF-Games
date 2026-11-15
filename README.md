@@ -9,6 +9,7 @@
 
 ## 목차
 
+- [게임 다운로드 및 실행 방법](#게임-다운로드-및-실행-방법)
 - [프로젝트 소개](#프로젝트-소개)
 - [주요 특징](#주요-특징)
 - [게임 플레이 흐름](#게임-플레이-흐름)
@@ -21,6 +22,25 @@
 - [팀원 소개](#팀원-소개)
 
 ---
+
+## 게임 다운로드 및 실행 방법
+
+### Windows 실행파일
+
+FFF는 Windows 환경에서 실행할 수 있는 Unity 기반 게임입니다.
+
+**[🎮 FFF 실행파일 다운로드 (131MB)](https://github.com/a5153203/FFF-Games/releases/download/v1.0.0/FFFGame.zip)**
+
+### 실행 방법
+
+1. 위 링크에서 `FFFGame.zip` 파일을 다운로드합니다.
+2. ZIP 파일의 압축을 해제합니다.
+3. 압축을 해제한 폴더에서 게임 실행파일(`.exe`)을 실행합니다.
+
+> **주의:** 실행파일과 함께 제공되는 데이터 폴더 및 DLL 파일을 삭제하거나 이동하지 마세요.
+
+---
+
 
 ## 프로젝트 소개
 
@@ -134,7 +154,7 @@ BootScene
 ### 1. 저장소 클론
 
 ```bash
-git clone https://github.com/park2002js/2026-1H-Capstone-project_FFF.git
+git clone https://github.com/a5153203/FFF-Games.git
 ```
 
 ### 2. Unity Hub에 프로젝트 추가
