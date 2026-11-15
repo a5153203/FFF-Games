@@ -3,7 +3,7 @@
 > **FFF (Forge's Flower Fight)**는 한국 화투와 섯다 족보를 기반으로 한 1인용 로그라이크 덱 빌딩 게임입니다.  
 > 플레이어는 매 전투마다 카드를 선택해 족보를 만들고, 장신구와 조커 효과를 조합하며, 분기형 맵을 따라 최종 보스까지 도달해야 합니다.
 
-[GitHub Repository](https://github.com/park2002js/2026-1H-Capstone-project_FFF)
+[GitHub Repository](https://github.com/a5153203/FFF-Games.git)
 
 ---
 
